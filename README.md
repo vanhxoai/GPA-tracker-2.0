@@ -1,7 +1,7 @@
 # GPA-tracker-2.0
 **Usage:**
 1. Run the script in any Python IDE 
-2. A small window pops up, pulling data from the database (Use Tkinter GUI - python libary)
+2. A small window pops up (Use Tkinter GUI - python libary), pulling data from the database 
 4. Ask if you want to make change (del/add) 
 5. If "add", the script will ask for the course name, credit, grade on a 4.0 scale.
 6. After running, the script displays a table of entered course details and Your total GPA
